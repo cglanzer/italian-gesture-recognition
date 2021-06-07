@@ -6,4 +6,4 @@ This repository contains a detailed report of our model architecture, regulariza
 
 **Unfortunately, for reasons of copyright, we are not allowed to publish our code.**
 
-[**Link to our report**]()
+[**Link to our report**](https://github.com/cglanzer/italian-gesture-recognition/blob/master/report.pdf)
