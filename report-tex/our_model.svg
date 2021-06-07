@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="our_model.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1260"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1258"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1226"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1224"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path931"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path919"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1226-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1224-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1260-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1258-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-4-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-6-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1226-2-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1224-6-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1260-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1258-5-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1226-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1224-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1260-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1258-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-4-7-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-6-6-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-4-7-0-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-6-6-2-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-4-7-0-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path931-6-6-2-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="363.1848"
+     inkscape:cy="838.72946"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1142"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.191;stroke-miterlimit:4;stroke-dasharray:0.573, 0.19100000000000000;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817"
+       width="30.427118"
+       height="3.968755"
+       x="88.635391"
+       y="125.02083" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98968"
+       y="127.75311"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="103.98968"
+         y="127.75311"
+         style="stroke-width:0.17921609px">CNN (32 channels)</tspan></text>
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100001;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="119.06771" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="121.8"
+       id="text847-6"><tspan
+         sodipodi:role="line"
+         id="tspan845-6"
+         x="103.98969"
+         y="121.8"
+         style="stroke-width:0.17921609px">CNN (32 channels)</tspan></text>
+    <rect
+       style="fill:#ff6225;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.19100000000000000;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="113.11459" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="115.84689"
+       id="text847-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0"
+         x="103.98969"
+         y="115.84689"
+         style="stroke-width:0.17921609px">Max-Pooling (3x3, str. 2)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1260)"
+       d="M 103.84896,125.02083 V 123.418"
+       id="path910"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1226)"
+       d="m 103.84896,119.06771 v -1.60283"
+       id="path912"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 103.84896,113.11458 v -1.60234"
+       id="path914"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100001;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-6"
+       width="30.427118"
+       height="3.968755"
+       x="88.635391"
+       y="107.16145" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98968"
+       y="109.89373"
+       id="text847-9"><tspan
+         sodipodi:role="line"
+         id="tspan845-8"
+         x="103.98968"
+         y="109.89373"
+         style="stroke-width:0.17921609px">CNN (64 channels)</tspan></text>
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-7"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="101.20833" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="103.94062"
+       id="text847-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-8"
+         x="103.98969"
+         y="103.94062"
+         style="stroke-width:0.17921609px">CNN (64 channels)</tspan></text>
+    <rect
+       style="fill:#ff6225;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-2"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="95.255211" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="97.987511"
+       id="text847-6-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-9"
+         x="103.98969"
+         y="97.987511"
+         style="stroke-width:0.17921609px">Max-Pooling (3x3, str. 2)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1260-7)"
+       d="m 103.84895,107.16146 v -1.60283"
+       id="path910-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1226-2)"
+       d="M 103.84895,101.20833 V 99.605499"
+       id="path912-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-4)"
+       d="m 103.84895,95.255199 v -1.60234"
+       id="path914-2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100001;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-1"
+       width="30.427118"
+       height="3.968755"
+       x="88.635391"
+       y="89.302063" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="92.034348"
+       id="text847-0"><tspan
+         sodipodi:role="line"
+         id="tspan845-7"
+         x="103.98969"
+         y="92.034348"
+         style="stroke-width:0.17921609px">CNN (128 channels)</tspan></text>
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-5"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="83.348946" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="86.081238"
+       id="text847-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-7"
+         x="103.98969"
+         y="86.081238"
+         style="stroke-width:0.17921609px">CNN (128 channels)</tspan></text>
+    <rect
+       style="fill:#ff6225;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-0"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="77.395828" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="80.128128"
+       id="text847-6-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-8"
+         x="103.98969"
+         y="80.128128"
+         style="stroke-width:0.17921609px">Max-Pooling (3x3, str. 2)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1260-4)"
+       d="m 103.84896,89.302071 v -1.60283"
+       id="path910-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1226-9)"
+       d="m 103.84896,83.348952 v -1.60283"
+       id="path912-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5)"
+       d="m 103.84896,77.395822 v -1.60234"
+       id="path914-29"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-6-6"
+       width="30.427118"
+       height="3.968755"
+       x="88.635391"
+       y="71.442688" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="74.174965"
+       id="text847-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan845-8-0"
+         x="103.98969"
+         y="74.174965"
+         style="stroke-width:0.17921609px">CNN (256 channels)</tspan></text>
+    <rect
+       style="fill:#e0ac00;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-7-4"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="65.489563" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="68.221855"
+       id="text847-6-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-8-2"
+         x="103.98969"
+         y="68.221855"
+         style="stroke-width:0.17921609px">CNN (256 channels)</tspan></text>
+    <rect
+       style="fill:#ff6225;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-2-2"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="59.536457" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="62.268757"
+       id="text847-6-0-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-9-5"
+         x="103.98969"
+         y="62.268757"
+         style="stroke-width:0.17921609px">Max-Pooling (3x3, str. 2)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1260-7-2)"
+       d="m 103.84895,71.442702 v -1.60283"
+       id="path910-6-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23779018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1226-2-1)"
+       d="M 103.84895,65.489572 V 63.886741"
+       id="path912-0-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-4-7)"
+       d="m 103.84895,59.536441 v -1.60234"
+       id="path914-2-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#0db600;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.19100000000000000;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-2-2-8"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="53.583332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="56.315632"
+       id="text847-6-0-9-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-9-5-8"
+         x="103.98969"
+         y="56.315632"
+         style="stroke-width:0.17921609px">Dense (128)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-4-7-0)"
+       d="m 103.84896,53.583319 v -1.60234"
+       id="path914-2-9-0"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#b600b0;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.19100000000000000;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-2-2-8-9"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="47.630207" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="50.362507"
+       id="text847-6-0-9-0-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-9-5-8-9"
+         x="103.98969"
+         y="50.362507"
+         style="stroke-width:0.17921609px">Bidirectional RNN</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23812878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-4-7-0-4)"
+       d="m 103.84896,47.630196 v -1.60234"
+       id="path914-2-9-0-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#0db600;fill-opacity:1;stroke:#000000;stroke-width:0.19100003;stroke-miterlimit:4;stroke-dasharray:0.573, 0.191;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817-5-4-2-2-8-4"
+       width="30.427118"
+       height="3.968755"
+       x="88.635414"
+       y="41.677082" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38954806px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17921609px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.98969"
+       y="44.409382"
+       id="text847-6-0-9-0-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan845-6-0-9-5-8-99"
+         x="103.98969"
+         y="44.409382"
+         style="stroke-width:0.17921609px">Dense (20)</tspan></text>
+  </g>
+</svg>

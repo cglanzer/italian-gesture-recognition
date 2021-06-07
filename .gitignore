@@ -1,0 +1,15 @@
+*.~lock.*
+*.bbl
+*.blg
+*~*
+*.synctex.gz
+*.log
+*.out
+*.aux
+*.ps
+*.toc
+*.nav
+*.snm
+*.thm
+*.vrb
+*.spl
