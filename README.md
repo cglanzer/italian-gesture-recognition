@@ -1,4 +1,4 @@
-## Recognizing Italian Sign Gestures with Bidirectional Neural Networks
+## Recognizing Italian sign gestures with bidirectional neural networks
 
 During a project at ETH Zürich, we have implemented a neural network in TensorFlow which recognizes Italian sign gestures from short video clips. Using a bidirectional neural network architecture we were able to beat the *hard*-baseline with our model, reaching a correct classification rate of 82.8% on test data. This is joint work with Stephan Artmann.
 
